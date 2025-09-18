@@ -32,7 +32,7 @@ public static class SeedData
             new PizzaSpecial()
             {
                 Id = 4,
-                Name = "Buffalo chicken",
+                Name = "Buffalo chik'n",
                 Description = "Spicy chicken, hot sauce and bleu cheese, guaranteed to warm you up",
                 BasePrice = 12.75m,
                 ImageUrl = "img/pizzas/meaty.jpg",
